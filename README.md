@@ -1,1 +1,1 @@
-# .github
+# kognic-internal
